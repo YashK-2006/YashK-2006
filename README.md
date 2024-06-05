@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding, Exploring and Connecting
 - 🌱 I’m currently learning C++, Java and Languages
 - 💞️ I’m looking to collaborate on projects and internships
-- 📫 You can reach me via mail and linkedin
+- 📫 You can reach out to me via mail and linkedin
