@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Karthik (@YashK-2006)
 - 👀 I’m interested in Coding, Exploring and Connecting
-- 🌱 I’m currently learning C++, Java and Languages
+- 🌱 I’m currently learning C++, Java and other essential Languages and have a decent grip on C and Python
 - 💞️ I’m looking to collaborate on projects and internships
 - 📫 You can reach out to me via mail and linkedin
