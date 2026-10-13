@@ -1,94 +1,132 @@
 <div align="center">
 
-# Hi, I'm Yash Karthik 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C7744&text=Yash%20Karthik&fontColor=F4FFF8&fontSize=52&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems%20%7C%20VLSI%20%7C%20Connected%20Vehicles&descAlignY=59&descSize=16" width="100%" alt="Yash Karthik — ECE, embedded systems, VLSI and connected vehicles">
 
-### Electronics & Communication Engineering | Embedded Systems • VLSI • Connected Vehicles
-
-I enjoy building at the intersection of **electronics, embedded systems, communication networks, and intelligent software**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=2C974B&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+hardware+%26+software;Exploring+VLSI%2C+Embedded+Systems+%26+V2X;Learning+by+building.+Improving+by+iterating." alt="Animated introduction">
+</a>
 
 <p>
-  <a href="https://github.com/YashK-2006?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
-  </a>
-  <a href="https://github.com/YashK-2006/sustaina-ai">
-    <img src="https://img.shields.io/badge/Featured%20Project-Sustaina%20AI-1f6feb?style=for-the-badge&logo=leaflet&logoColor=white" alt="Featured project Sustaina AI">
-  </a>
+  <a href="https://github.com/YashK-2006?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
+  <a href="https://github.com/YashK-2006/sustaina-ai"><img src="https://img.shields.io/badge/Featured%20Build-Sustaina%20AI-2C974B?style=for-the-badge&logo=leaflet&logoColor=white" alt="Sustaina AI"></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=YashK-2006&style=flat-square&color=2C974B&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-- 🎓 Electronics & Communication Engineering student at **SRM Institute of Science and Technology**.
-- 🔬 Interested in **VLSI, embedded systems, IoT, vehicle communication, and battery-management systems**.
-- 🧩 I like projects that connect hardware concepts with practical software and system-level problem solving.
-- 🌱 Currently strengthening my skills through hands-on projects and technical learning.
-- 🤝 Open to meaningful collaborations, technical projects, and relevant internship opportunities.
+🎓 **Electronics & Communication Engineering student** at SRM Institute of Science and Technology.
 
-## What I work with
+I’m interested in the systems where **electronics meets intelligent software** — from digital design and embedded devices to connected vehicles and electric mobility.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Verilog-6E4C13?style=for-the-badge" alt="Verilog">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+- 🔬 **Core interests:** VLSI, embedded systems, IoT, V2X communication and battery-management systems.
+- ⚙️ **How I build:** Connect engineering fundamentals with practical software, simulations and system-level thinking.
+- 🌱 **Current focus:** Strengthening technical depth through hands-on projects and continuous learning.
+- 🤝 **Open to:** Relevant internships, engineering projects and meaningful technical collaborations.
+
+## 🧰 My toolkit
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=light" alt="C, C++, Python, Java, JavaScript, HTML and CSS">
+
+### Embedded, engineering & development
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,flask,django,git,github,matlab&theme=light" alt="Arduino, Raspberry Pi, Flask, Django, GitHub and MATLAB">
+
+<p>
+  <img src="https://img.shields.io/badge/Verilog-RTL%20Design-6E4C13?style=flat-square" alt="Verilog RTL design">
+  <img src="https://img.shields.io/badge/ESP32-IoT-00979D?style=flat-square" alt="ESP32 IoT">
+  <img src="https://img.shields.io/badge/LTspice-Circuit%20Simulation-00599C?style=flat-square" alt="LTspice">
+  <img src="https://img.shields.io/badge/Xilinx-FPGA-E01F27?style=flat-square" alt="Xilinx FPGA">
+  <img src="https://img.shields.io/badge/ModelSim-Digital%20Verification-4B6F44?style=flat-square" alt="ModelSim">
+  <img src="https://img.shields.io/badge/Cadence-VLSI-9B1C31?style=flat-square" alt="Cadence VLSI">
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square" alt="Ollama local LLMs">
 </p>
 
-**Tools & platforms:** Arduino · ESP32 · Flask · Django · Ollama · MATLAB/Simulink · LTspice · Xilinx · ModelSim · Cadence Virtuoso
+</div>
 
-## Featured projects
+## 🚀 Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/YashK-2006/sustaina-ai">Sustaina AI</a></h3>
-      <p>An SDG-focused chatbot built with Flask and a locally hosted Phi-3 model through Ollama. Includes goal-specific prompts and a keyword-based relevance check.</p>
-      <p><sub>Python · Flask · JavaScript · Ollama</sub></p>
+      <a href="https://github.com/YashK-2006/sustaina-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashK-2006&repo=sustaina-ai&theme=transparent&hide_border=true" alt="Sustaina AI repository card" width="100%">
+      </a>
+      <p><strong>🌱 Sustaina AI</strong></p>
+      <p>An SDG-focused chatbot using Flask, Ollama and Phi-3, with goal-specific prompts and a keyword-based relevance check.</p>
+      <sub>Python · Flask · JavaScript · Local LLM</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🦾 <a href="https://github.com/YashK-2006/projects">TriNetra — The Third Eye</a></h3>
-      <p>An assistive-technology project exploring sensor-based obstacle awareness and user alerts. Visit the projects repository for the available project material.</p>
-      <p><sub>Embedded systems · Sensors · Assistive technology</sub></p>
+      <a href="https://github.com/YashK-2006/projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashK-2006&repo=projects&theme=transparent&hide_border=true" alt="Projects repository card" width="100%">
+      </a>
+      <p><strong>🦾 TriNetra — The Third Eye</strong></p>
+      <p>An assistive-technology project exploring sensor-based obstacle awareness and user alerts. Project material is available in the projects repository.</p>
+      <sub>Embedded systems · Sensors · Assistive technology</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/YashK-2006/projects">ATM Management System</a></h3>
-      <p>A Python-based ATM simulator with PIN authentication, balance inquiry, deposits, withdrawals, and PIN management.</p>
-      <p><sub>Python · Programming fundamentals</sub></p>
+      <h3>🔋 Battery Management Systems</h3>
+      <p>Exploring SoC estimation, Extended Kalman Filtering, cell balancing and battery-pack monitoring for electric mobility.</p>
+      <sub>EV systems · State estimation · Power electronics</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Connected & Electrified Mobility</h3>
-      <p>Exploring project ideas around V2X communication, trust and misbehavior detection, battery-management systems, state-of-charge estimation, and power converters.</p>
-      <p><sub>V2X · BMS · EV systems · Power electronics</sub></p>
+      <h3>🚗 Secure V2X Communication</h3>
+      <p>Exploring AI-assisted misbehavior detection and trust management for connected-vehicle communication networks.</p>
+      <sub>V2X · Network security · Trust management</sub>
     </td>
   </tr>
 </table>
 
-## Areas I'm exploring
+## 📊 GitHub at a glance
 
-- **VLSI & digital design:** RTL design, Verilog, simulation, and digital systems.
-- **Embedded systems & IoT:** Microcontrollers, sensor integration, and connected devices.
-- **Connected vehicles:** V2X communication, network security, and trust management.
-- **Electric mobility:** Battery-management systems, SoC estimation, cell balancing, and power conversion.
-- **Applied AI:** Practical, locally deployable AI systems and explainable ML concepts.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashK-2006&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK-2006&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" height="165">
+</div>
 
-## Find me on GitHub
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YashK-2006&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="70%">
+</div>
 
-<p align="center">
-  <a href="https://github.com/YashK-2006?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashK-2006&bg_color=ffffff00&color=2C974B&line=2C974B&point=3B82F6&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+</div>
+
+## 🎯 What I'm exploring
 
 <div align="center">
 
-*Learning by building. Improving by iterating.*
+| No. | Focus area | Topics |
+|:---:|---|---|
+| 01 | **VLSI & Digital Design** | RTL design · Verilog · FPGA workflows |
+| 02 | **Embedded Systems & IoT** | Microcontrollers · Sensors · Connected devices |
+| 03 | **Connected Vehicles** | V2X communication · Network security · Trust management |
+| 04 | **Electric Mobility** | BMS · SoC estimation · Cell balancing · Power conversion |
+| 05 | **Applied AI** | Local inference · Explainable ML · Practical applications |
+
+</div>
+
+## 🤝 Connect & collaborate
+
+If you're working on something around electronics, embedded systems, VLSI or connected mobility, I'd be glad to explore it.
+
+<div align="center">
+  <a href="https://github.com/YashK-2006?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub repositories"></a>
+  <a href="https://github.com/YashK-2006/sustaina-ai"><img src="https://img.shields.io/badge/Build%20with%20purpose-Sustaina%20AI-2C974B?style=for-the-badge&logo=leaflet&logoColor=white" alt="Sustaina AI repository"></a>
+</div>
+
+<div align="center">
+
+### *Curiosity → Circuits → Code → Systems*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C7744" width="100%" alt="Green wave footer">
 
 </div>
